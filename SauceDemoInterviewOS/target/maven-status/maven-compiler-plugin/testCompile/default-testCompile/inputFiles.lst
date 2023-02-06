@@ -1,0 +1,12 @@
+/Users/jobster/IdeaProjects/SauceDemoInterviewOS/src/test/java/sauceDemo/utils/Constants.java
+/Users/jobster/IdeaProjects/SauceDemoInterviewOS/src/test/java/sauceDemo/pages/ProductsPage.java
+/Users/jobster/IdeaProjects/SauceDemoInterviewOS/src/test/java/sauceDemo/pages/CheckoutPage.java
+/Users/jobster/IdeaProjects/SauceDemoInterviewOS/src/test/java/sauceDemo/stepdefinitions/CheckoutStepDefinition.java
+/Users/jobster/IdeaProjects/SauceDemoInterviewOS/src/test/java/sauceDemo/testbase/BaseClass.java
+/Users/jobster/IdeaProjects/SauceDemoInterviewOS/src/test/java/sauceDemo/stepdefinitions/LoginStepDefinition.java
+/Users/jobster/IdeaProjects/SauceDemoInterviewOS/src/test/java/sauceDemo/runners/TestRunner.java
+/Users/jobster/IdeaProjects/SauceDemoInterviewOS/src/test/java/sauceDemo/stepdefinitions/Hooks.java
+/Users/jobster/IdeaProjects/SauceDemoInterviewOS/src/test/java/sauceDemo/utils/CommonMethods.java
+/Users/jobster/IdeaProjects/SauceDemoInterviewOS/src/test/java/sauceDemo/testbase/PageInitializer.java
+/Users/jobster/IdeaProjects/SauceDemoInterviewOS/src/test/java/sauceDemo/pages/LoginPage.java
+/Users/jobster/IdeaProjects/SauceDemoInterviewOS/src/test/java/sauceDemo/utils/ConfigsReader.java

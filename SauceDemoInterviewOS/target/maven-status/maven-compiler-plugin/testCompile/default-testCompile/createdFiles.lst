@@ -1,0 +1,12 @@
+sauceDemo/stepdefinitions/Hooks.class
+sauceDemo/testbase/BaseClass.class
+sauceDemo/utils/Constants.class
+sauceDemo/stepdefinitions/LoginStepDefinition.class
+sauceDemo/stepdefinitions/CheckoutStepDefinition.class
+sauceDemo/pages/ProductsPage.class
+sauceDemo/testbase/PageInitializer.class
+sauceDemo/runners/TestRunner.class
+sauceDemo/pages/CheckoutPage.class
+sauceDemo/pages/LoginPage.class
+sauceDemo/utils/CommonMethods.class
+sauceDemo/utils/ConfigsReader.class
